@@ -8,3 +8,7 @@ https://oshpark.com/shared_projects/8H1yEb9n
 
 EasyEDA
 https://oshwlab.com/fragolroc/snes-rgb-bypass-companion
+
+-------
+
+Install Video: https://youtu.be/DrAMK71VlzU
